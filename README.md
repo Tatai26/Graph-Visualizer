@@ -3,8 +3,6 @@
 ## Overview
 An interactive web-based graph visualizer built with HTML, CSS, and JavaScript. The application allows users to visualize graphs by adding nodes and edges, and features algorithms for finding the shortest path, performing topological sorting, and computing the minimum spanning tree.
 
-![Graph Visualizer Screenshot](./screenshot.png)
-
 ## Features
 - **Add Nodes**: Add nodes to the graph with custom names.
 - **Add Edges**: Connect nodes with edges and specify weights.
@@ -22,7 +20,7 @@ An interactive web-based graph visualizer built with HTML, CSS, and JavaScript. 
 ### Running the Project
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/ViraalBambori/Graph-Visualizer.git
+    git clone https://github.com/Tatai26/Graph-Visualizer.git
     ```
 2. Navigate to the project directory.
     ```bash
